@@ -3,7 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarchakali&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarchakali" /> </p>
 
+- 👨‍💻 I have trained in 360digiTMG institute in the data science course **.**
+
 - ⚡ All of my projects are available at [https://bhaskarchakali.github.io/portfolio-website/](https://bhaskarchakali.github.io/portfolio-website/)
+
+- ⚡ I am carrying internship experience as a data science intern in INNODATATICS * Innovation | Data | Analytics company **.**
+
+- 🔭 Presently I am doing another internship as a data science intern in innomatics research labs **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
