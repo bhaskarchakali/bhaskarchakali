@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Bhaskar Chakali</h1>
 <h3 align="center">Data science enthusiastic</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaskarchakali&label=Profile%20views&color=0e75b6&style=flat" alt="bhaskarchakali" /> </p>
 
 - 👨‍💻 I have trained in 360digiTMG institute in the data science course **.**
 
