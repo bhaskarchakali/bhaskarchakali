@@ -1,4 +1,4 @@
-
+![logi](https://github.com/bhaskarchakali/bhaskarchakali/blob/main/b3.jpg)
 <h1 align="center">Hi 👋, I'm Bhaskar Chakali</h1>
 <h3 align="center">Data science enthusiastic</h3>
 
