@@ -1,6 +1,6 @@
 ![logi](https://github.com/bhaskarchakali/bhaskarchakali/blob/main/read%20me%20profile.jpg)
 <h1 align="center">Hi 👋, I'm Bhaskar Chakali</h1>
-<h3 align="center">Data science enthusiastic</h3>
+
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 👨‍💻 I have trained in 360digiTMG institute in the data science course **.**
