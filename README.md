@@ -1,5 +1,6 @@
-![logi](https://github.com/bhaskarchakali/bhaskarchakali/blob/main/read%20me%20profile.jpg)
+
 <h1 align="center">Hi 👋, I'm Bhaskar Chakali</h1>
+<h4 align="center">Data Science Enthusiastic..!</h4>
 
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
