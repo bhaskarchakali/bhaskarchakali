@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bhaskar Chakali</h1>
-<h4 align="center">Data Science Enthusiastic..!</h4>
+<h3 align="center">Data Science Enthusiastic..!</h3>
 
 <img align="right" alt="coding" width="300" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
